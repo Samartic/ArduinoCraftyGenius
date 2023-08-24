@@ -29,10 +29,15 @@ body {
 #blog-preview { 
 	display:flex;
 	flex-direction:row;
-	justify-content:left;
+	justify-content:center;
 	background: rgb(220,220,200,0.8); 
 	border-radius:25px;
 	padding:2em;
+}
+#blog-text {
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
 }
 /**
  * Links
