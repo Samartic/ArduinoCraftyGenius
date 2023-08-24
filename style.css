@@ -30,7 +30,7 @@ body {
 	display:flex;
 	flex-direction:row;
 	justify-content:left;
-	background: rgb(220,220,200,0.8); 
+	background: rgb(230,230,210,1); 
 	border-radius:25px;
 	padding:2em;
 }
@@ -39,6 +39,7 @@ body {
 	flex-direction:column;
 	justify-content:center;
 	padding:2em;
+	color: dark-blue;
 }
 /**
  * Links
