@@ -26,10 +26,10 @@ body {
 	flex-direction:column;
 	justify-content:center;
 }
-#blog-previwe {
+#blog-preview {
 	display:flex;
 	flex-direction:column;
-	justify-content:center
+	justify-content:center;
 }
 /**
  * Links
